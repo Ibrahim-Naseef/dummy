@@ -7,7 +7,7 @@ const colors = [
 	"#ff4c4c",
 	"#ffcc00"
 ];
-const letters = "Vidya Cuty ❤️"; // Define the message you want
+const letters = "Vidya"; // Define the message you want
 let letterIndex = 0; // Keep track of the current index
 
 // Get the next letter from the message
